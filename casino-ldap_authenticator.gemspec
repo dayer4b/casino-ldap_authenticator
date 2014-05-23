@@ -5,8 +5,8 @@ require 'casino/ldap_authenticator/version'
 Gem::Specification.new do |s|
   s.name        = 'casino-ldap_authenticator'
   s.version     = CASino::LDAPAuthenticator::VERSION
-  s.authors     = ['Nils Caspar']
-  s.email       = ['ncaspar@me.com']
+  s.authors     = ['Nils Caspar','Sunil K Chopra']
+  s.email       = ['ncaspar@me.com','schopra@misdepartment.com']
   s.homepage    = 'http://rbcas.org/'
   s.license     = 'MIT'
   s.summary     = 'Provides mechanism to use LDAP as an authenticator for CASino.'
